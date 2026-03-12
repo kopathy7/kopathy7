@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there 👋 I'm Kopathy
 
-<!--
-**kopathy7/kopathy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer passionate about building modern web applications and turning ideas into real projects.  
+🚀 I enjoy experimenting with new technologies, learning by building, and constantly improving my development skills.  
+⚡ Interested in full-stack development, clean architecture, and creating efficient and user-friendly applications. 
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- React
+- TypeScript
+- Node.js
+- Express.js
+- Python
+- Tailwind CSS
+- JavaScript
+- Java(Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- Anti-Prompt – AI security testing platform
+- Futuristic Career Discovery Platform
+- Price Fluctuation Tracker
+
+## 🌱 Currently Learning
+- Backend development
